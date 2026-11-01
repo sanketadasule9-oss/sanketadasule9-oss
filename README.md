@@ -29,7 +29,7 @@ I'm passionate about cybersecurity, ethical hacking, and learning how systems an
 
 [View My Silver Platter Write-up](https://github.com/sanketadasule9-oss/TryHackMe-Silver-Platter)
 
-[Visit TryHackMe](https://tryhackme.com/room/silverplatter)
+[Visit My TryHackMe Profile](https://tryhackme.com/p/tryGhost)
 
 ## 📂 Featured Projects
 
